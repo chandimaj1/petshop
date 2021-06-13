@@ -1,0 +1,22 @@
+.singleContainer {
+	background: #ecf0f1;
+}
+
+
+.post-title a {
+	font-family: 'Nunito', sans-serif !important;
+	font-size:32px;
+	font-weight: 700;
+}
+
+.breadcumbs ul li {
+	font-weight: normal;
+}
+
+
+
+.petPrice{ 
+		float:right;
+			font-size:32px;
+		color:#000;
+ }

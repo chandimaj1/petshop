@@ -1,0 +1,40 @@
+.nav-link {
+	font-size: 16px;
+	margin-right:20px;
+	font-weight: 700;
+
+}
+
+nav {
+	margin-bottom: 0px;
+}
+
+.searchButton {
+	font-size: 14px;
+	padding: 10px 30px 10px 30px;
+
+}
+
+.searchInput {
+	height: 45px;
+	font-size:14px;
+}
+
+
+
+.blog-info p {
+	font-size: 14px;
+	text-align: left;
+}
+
+.navbar-brand {
+	font-family: 'Pattaya', sans-serif;
+}
+
+.navbar  {
+	margin-bottom: 0px;
+}
+
+.mini-cart-brief {
+	margin-top:22px;
+}

@@ -1,0 +1,30 @@
+.shopContainer {
+	background: #ecf0f1;
+}
+
+.heading-banner-area { 
+	background: rgba(0, 0, 0, 0) url('./hero.jpg') no-repeat scroll center bottom / cover;
+}
+
+.pagination ul {
+	margin-left: 45%;
+}
+
+.pagination ul li {
+	font-size:12px;
+}
+
+.pro-rating a {
+	color: #c8a165 !important;
+}
+
+.pro-price-2 { 
+
+	color: #000;
+	}
+
+
+
+.breadcumbs ul li {
+	font-weight: 0;
+}

@@ -1,0 +1,33 @@
+.discount-img-brief {
+		margin-top: 13%;
+
+}
+
+.discount-info {
+		width: 50%;
+		margin-left: 25%;
+		background: #000;
+		padding:3%;
+}
+
+.discount-info h1 {
+	color: #fff;
+}
+.discount-info p {
+	margin-top:2rem !important;
+	color: #fff;
+	font-size:16px;
+}
+
+.subscribe input {
+	font-size:14px;
+}
+
+.submit-btn-2 {
+	font-weight: normal !important;
+}
+
+.button-one {
+	font-weight: normal !important;
+
+}

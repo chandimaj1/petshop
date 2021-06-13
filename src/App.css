@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+
+body {
+  font-family: 'Nunito', sans-serif !important;
+}
+
+body p {
+  font-size: 14px;
+}
+
+body input {
+  font-size: 14px;
+}
+
+
+.footer-area {
+  text-align: left;
+  font-size: 14px;
+}
+
+
+.copyright-area {
+  font-size: 14px;
+}
+
+a {
+  color: #000 !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: #C8A165 !important;
+    text-decoration: none !important;
+
+}
+
+.single-blog {
+  text-align: left;
+}

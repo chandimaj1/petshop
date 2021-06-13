@@ -1,0 +1,17 @@
+.checkoutContainer {
+	background: #ecf0f1;
+	text-align: left;
+	font-size: 14px;
+}
+
+.post-title a {
+    font-family: 'Nunito', sans-serif !important;
+     font-size: 14px !important; 
+    font-weight: 700;
+}
+
+
+
+.breadcumbs ul li {
+	font-weight: normal;
+}
